@@ -1,1 +1,21 @@
-# agata
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Gx3W73/1657556186780.png",Canal 3
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png",Canal 7
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWXn2h3/Trecevisi-n-Guatemala.png",Canal 13
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 tvg-logo="6",Canal Tnt
+
+#EXTINF:-1 tvg-logo="https://stringfixer.com/files/175219412.jpg",Canal 11
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHSMBTt/1657556520987.png",Guatevision
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Chanel
+https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CuQEUshjJfLpSAIlWbnrPGLFZZqhPovKpIuOt53BOwaOBWI-mL2U7MweGbQpFXlXtCH3Z16DyPQ35653dSh_oh8o25u-ETQltXc6sTc5y8KaYPRXQZ6U8BMbeq-onPwwPsN3ZV3hHuWpWaUr8v30G15wte-tyW2Vfwc0Cid5J07baJrG1Eh1XvsgniA5EPnoDTUPue_DtSY8Fj7ixgNwrB4SMBHVrj3J-V8JJ0QVKiQFH6BZDaC1spNt2DXxlH9xWARxOguWRjqXTt3DQKo8pq3tOUtNoTB7YVJixtaSJuL0ojjyKAiGSuOyqrOLnu_9aR6V42QnPNcoPd-pk7uvB2s83kBvqTMmNJ1uleeSvqOYHNYnnJyWOcjC3DEgQ3WYhV6AnaJ8U62M3G_rEAqJrHWUIsqx6GPNO-eHHu71VJdplq9mrmNO1_d5o8HkHH4aJHh1n9hMahR4oddw1usocMnka47NbwCG16OBn44pbLLIJVPhz-I7YXXoC4AZkIjQ51esfzj6W0mqul0JNkTH32j5hOd4WYuNUgC8gnlk4ICt4rKwlhFF-vMjHHUumwa2bTWuPwxQ7bYhfL-5eIZHMxNBegqmDVKUz8vM8Si-7XXgOtdXwGjjCBe-t2099Lk2KfciW6FeDYXE9WKtb4QQhztAIPK7gVdW0su5xh5eaWYhvbUX6_5DZiVqKD57MtJa4KiMs04cmAPTEgmMxeBWc1alAuuzIg_qD0iXeQATt-TVN8gMBsp7_2782zy06MgqDv2Hv13gNDmDfMGHbwmuti0sx8HiMRBry5RGCrkGFV3GsQao6g2iGgzXxH9WWYHoV-0vNqogASoJZXUtd2VzdC0yMJcE.m3u8
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",Canal Discoveri Chanel
+https://video-weaver.muc01.hls.ttvnw.net/v1/playlist/CuMEs_KbI8fO1CNcQQVIRLZRrLJ9f7WMbvZBBByLgEIY7lB5xC19NDHTZ8LnLCNCVB7hgDXGY4WFB2oS9mReXJd9Xctrs_JKViXD7h6JRPHEogfyXEBfaK3-kiiwvtg9SyQbGq9m-1fhxCakviTy97R6Xzie9G2kgJ-Rl5ornN_MAr2esBu3iR7rRkuz3FLA29cePARqM1uAN06OiAJqfMhtdZpBXDhA09GXTUl_w2rea5CMCvkawz9i7hP5beIhoJmRjPKXngMIlG8wkxkeDYMsnk19GjWy4J4VGStzxWOLwqmY_86NmIXlp6jeK0gWShVzFokr11nYenvJnp7nT0p_k0aj55YaqH54LLADR29bQcGTwNKz56v6snjWUeVmKs4IxDJksW5ZAMAjtRZcJM48y2cR9Q_I48OYrvD_76NmY1VZcCwp3Z6ZZVIuQLdp1RMoIIhvOlcUWMZFdPW65_0Y7gIjNNBWbEvmgKVk6SBOIH5XmbJerJb10fHhkbnB3sBYB5wsNYLkIaUXfge7D30eSM6aKDp1XkucIyim9zRJOWKD4rmx4JRKhQ7r0pD4pgWweyOsho2WUozSUlanyNsNlQcU8xIhxGfVWFNLFW1iEdLX0wZR7vMuzh2X9VxszxVpz3B2B2eX4yQOGh1CbpmnRlViZqyetcc91IHWUhvmXO2Qy_8z8mwdqyOzy5SObC2llX-bJtSB62IvV8kEg9pSgqdPvVm7XMDLJ1Mwj9eCXTESx3ZwUJ1CTTtNG5_ybzTQqIR7rCOeNrPZ6Nx3_mB5tg2tXg4n04RuVPid67qcB1PphxkaDDW2tDrC-LSSRl_kSSABKglldS13ZXN0LTIwlwQ.m3u8
